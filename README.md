@@ -18,9 +18,7 @@ You can test the application in your browser:
 
 You can also run the application as a hybrid app in Cordova.
 
-## Hosted Version
 
-Click [here](http://react-directory.herokuapp.com) to run the hosted version in your browser.
 
 ## Running the Node.js Server Locally
 
